@@ -1,0 +1,15 @@
+[submodule "dilithium-cortexm"]
+	path = dilithium-cortexm
+	url = https://github.com/dilithium-cortexm/dilithium-cortexm
+[submodule "nttm4"]
+	path = nttm4
+	url = https://github.com/mupq/nttm4
+[submodule "ntt-polymul"]
+	path = ntt-polymul
+	url = https://github.com/ntt-polymul/ntt-polymul
+[submodule "polymul"]
+	path = polymul
+	url = https://github.com/mkannwischer/polymul
+[submodule "polymul-z2mx-m4"]
+	path = polymul-z2mx-m4
+	url = https://github.com/mupq/polymul-z2mx-m4
